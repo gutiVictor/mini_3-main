@@ -1,0 +1,70 @@
+.contenedorModal {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  top: 0;
+  left: 0;
+  position: fixed;
+  z-index: 999;
+}
+.containerModal {
+  background-color: white;
+  height: 50%;
+  width: 100%;
+}
+
+.modalglobal {
+  display: flex;
+  width: 900px;
+  border-radius: 16px;
+  margin-top: 83px;
+  height: 55px;
+  margin-left: 220px;
+  box-shadow: 0px 1px 6px 0px #0000001a;
+  align-items: center;
+}
+
+.modallugarBusqueda {
+  width: 100px;
+  height: 200px;
+}
+
+.busquedaBoton-Modal img {
+  width: 25px;
+  height: 25px;
+  margin-top: 1px;
+ 
+
+
+}
+
+.busquedaBoton-Modal {
+  display: flex;
+  font-size: 1rem;
+  width: 127px;
+  height: 48px;
+  background-color: #eb5757;
+  border-radius: 16px;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+
+}
+
+.modallugarBusqueda-ciudad  {
+width: 380px;
+
+margin-top: 6px;
+
+    
+}
+
+.modallugarBusqueda-personas {
+    width: 380px;
+    
+    margin-top: 6px;
+        
+    }

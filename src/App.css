@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+
+.contenedor {
+  margin: 0 26px;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+}
+
+h3 {
+  font-size: 20px;
+
+}
+
+.cajaLogo img {
+  width: 96px;
+  height: 18.75px;
+  top: 46px;
+  left: 94px;
+
+}
+
+.barraBusqueda {
+  margin-left: auto;
+
+}
+
+.titulo {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #333333;
+  width: 199px;
+  height: 29px;
+  top: 148px;
+  left: 91px;
+
+
+}
+
+.todo {
+  max-width: 1300px;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+
+.pie {
+  width: 100%;
+  display: flex;
+  margin: 30px;
+  justify-content: center;
+  
+}
+
+h6 {
+  width: 287px;
+  height: 17px;
+  top: 1047px;
+  left: 573px;
+
+ 
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+
+
+
+
+}

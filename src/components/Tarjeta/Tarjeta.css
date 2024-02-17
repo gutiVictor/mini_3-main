@@ -1,0 +1,75 @@
+.listaTarjeta {
+    display: flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+
+.tarjeta_json {
+    margin-bottom: 16px;
+    width: calc(33% - 10px);
+    margin-right: 2px;
+
+}
+
+.tarjeta_json img {
+
+    width: 395px;
+    height: 269px;
+    top: 209px;
+    left: 94px;
+    border-radius: 24px;
+    margin-bottom: 8px;
+
+}
+
+.ratingApto img {
+    width: 15px;
+    margin-top: -124px; /* star posicion */
+}
+
+.datos {
+    display: flex;
+    justify-content: space-between;
+    height: 20px;
+    width: 390px;
+    font-family: "Monstserrat", sans-serif;
+}
+
+.tipoApto {
+    width: 267px;
+    height: 20px;
+    top: 533px;
+    left: 949px;
+}
+
+.ratingApto {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.texto {
+    width: 267px;
+    height: 20px;
+    top: 533px;
+    left: 949px;
+    font-weight: 600px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}

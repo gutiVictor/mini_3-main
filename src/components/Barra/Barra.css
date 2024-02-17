@@ -1,0 +1,61 @@
+.lugarBusqueda {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.busqueda {
+  cursor: pointer;
+  background-color: white;
+  width: 297px;
+  height: 55px;
+  top: 32px;
+  left: 1047px;
+  border-radius: 16px;
+
+  display: flex;
+}
+
+.lugarBusqueda-boton img {
+  width: 35px;
+  height: 35px;
+  background-color: white;
+}
+
+.lugarBusqueda {
+  flex: 1;
+  margin-right: 10px;
+  border-right: 1px solid #f2f2f2;
+  margin: 6px;
+}
+
+
+
+.lugarBusqueda:last-child {
+  border-right: none;
+
+}
+
+.busquedaBoton {
+  border: none;
+
+  margin-top: 11px;
+  background-color: white;
+  margin-right: 4px;
+ 
+}
+
+.global {
+  width: 297px;
+  height: 55px;
+  top: 32px;
+  left: 1047px;
+  display: flex;
+  border-radius: 16px;
+  border: 1px solid #f2f2f2;
+}
+input {
+  width: 100%;
+  padding: 16px;
+  border: none;
+  outline: none;
+}
